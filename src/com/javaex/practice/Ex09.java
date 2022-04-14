@@ -6,7 +6,7 @@ public class Ex09 {
 		
 		double f=80.0;
 		
-		System.out.println(5/9*f-32.0); ///잘모르겠습니다.
+		System.out.println(5.0/9.0*f-32.0); //--> 정수
 		
 		
 	} 
